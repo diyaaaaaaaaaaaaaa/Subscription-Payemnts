@@ -3,6 +3,11 @@
 
 ### A decentralized time-based payment system for continuous fund transfers built with Move on the Aptos blockchain.
 
+<img width="2825" height="1294" alt="image" src="https://github.com/user-attachments/assets/861e202b-a206-4a35-83f4-ea74c61893f7" />
+<img width="2808" height="1286" alt="image" src="https://github.com/user-attachments/assets/865146b9-03c1-4ceb-8aa4-c6b6ceece9e8" />
+
+
+
 ---
 
 ## 🧩 Overview
